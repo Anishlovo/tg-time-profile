@@ -1,4 +1,4 @@
-<h1 align= center>TG_TIME_USERBOT-Anishlovo</h1>
+<h1 align= center>TG_TIME_Bot-Anishlovo</h1>
 <h3 align = center>Powerful Telegram userbot to turn your PROFILE PICTURE & LAST NAME into a real time clock & to change your BIO automatically.</h3>
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
