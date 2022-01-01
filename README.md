@@ -1,4 +1,4 @@
-<h1 align= center>DATE_TIME_USERBOT-TeLeTiPs</h1>
+<h1 align= center>TG_TIME_USERBOT-Anishlovo</h1>
 <h3 align = center>Powerful Telegram userbot to turn your PROFILE PICTURE & LAST NAME into a real time clock & to change your BIO automatically.</h3>
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
@@ -46,4 +46,4 @@
 - [DATE_TIME Telegram userbot by TeLe TiPs] (https://github.com/teletips/CountdownTimer-TeLeTiPs)
 ```
 ## Read GNU AFFERO GENERAL PUBLIC LICENSE: 
-[LICENSE](https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs/blob/main/LICENSE)
+[LICENSE](https://github.com/Anishlovo/tg-time-profile-TeLeTiPs/blob/main/LICENSE)
