@@ -20,7 +20,7 @@
 4. `TIME_ZONE`: Your time zone (Example: Asia/Kolkata)
 
 <p align="center">
-<img src="https://telegra.ph/file/577fd708b51a9c60053f7.jpg">
+<img src="https://github.com/Anishlovo/tg-time-profile/blob/main/20220101_163628.jpg">
 <p>
  
 ## Deployment Methods
