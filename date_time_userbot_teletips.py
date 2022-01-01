@@ -47,7 +47,7 @@ async def main_teletips():
                 except Exception:
                     pass        
                 print("Profile Updated!")
-            await asyncio.sleep(60)     
+            await asyncio.sleep(40)     
     except FloodWait as e:
         await asyncio.sleep(e.x)         
 
