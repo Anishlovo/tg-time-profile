@@ -38,7 +38,7 @@
 
 - Changing the code is NOT ALLOWED!!    
 - You are free to use this code in any of your projects, but you MUST include the following in your README.md (Copy & paste)
-- [📞 Contact](https://t.me/@anishlovo)
+- [📞 Contact](https://t.me/anishlovo)
 ```
 ##Credits
 - [DATE_TIME Telegram userbot by TeLe TiPs] (https://github.com/Anishlovo/tg-time-profile)
